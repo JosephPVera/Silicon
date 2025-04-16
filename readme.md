@@ -31,3 +31,5 @@ E =
 0 & 0 & 12.99
 \end{bmatrix}
 $$
+
+## 3. Point defects
