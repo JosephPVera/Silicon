@@ -36,7 +36,7 @@ $$
 ### 3.1. T center 
 #### 3.1.1. Formation energy diagram
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/formation-energy/energy_A-1.png)
-#### 3.1.2. Kohn-Sham states for $T_0$ center
+#### 3.1.2. Kohn-Sham states for $T^0$ center
 | Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
 | :--------: |:------:|:-------------------------:| :---------:|
 | T          | 0      |        1                  |     1/2    |
@@ -46,7 +46,7 @@ $$
 #### 3.1.3. Localized states in Spind down 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/T_0/Spin_down-kpoint_1.png)
 
-#### 3.1.4. Kohn-Sham states for $T_0$ center: Excited state
+#### 3.1.4. Kohn-Sham states for $T^0$ center: Excited state
 | Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
 | :--------: |:------:|:-------------------------:| :---------:|
 | T          | 0      |        1                  |     1/2    |
@@ -55,7 +55,7 @@ $$
 
 ### 3.2. G center 
 #### 3.2.1. Formation energy diagram
-#### 3.1.2. Kohn-Sham states for $G_0$ center
+#### 3.1.2. Kohn-Sham states for $G^0$ center
 | Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
 | :--------: |:------:|:-------------------------:| :---------:|
 | G          | 0      |        0                  |     0      |
@@ -68,7 +68,7 @@ $$
 #### 3.2.4. Localized states in Spind down 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/G_center/HSE06/G_0/Spin_down-kpoint_1-no.png)
 
-#### 3.2.5. Kohn-Sham states for $G_0$ center: Excited state
+#### 3.2.5. Kohn-Sham states for $G^0$ center: Excited state
 | Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
 | :--------: |:------:|:-------------------------:| :---------:|
 | G          | 0      |        0                  |     0      |
@@ -79,13 +79,13 @@ $$
 
 ## 4. Zero Phonon line (ZPL) for point defects in silicon
 
-### 1. T center
+### 1. $T^0$ center
 | Method        | ZPL (eV)      | $\lambda$ (nm)        |
 | :-----------: |:-------------:|:---------------------:|
 | PBE           | 0.367         |  3382                 |
 | HSE06         | 0.881         |  1408                 | 
 
-### 2. G center
+### 2. $G^0$ center
 | Method        | ZPL (eV) - Spin up | $\lambda$ (nm) - Spin up | ZPL (eV) - Spin down | $\lambda$ (nm) - Spin down | 
 | :-----------: |:------------------:|:------------------------:|:--------------------:|:--------------------------:|
 | PBE           | 0.355              |  3496                    | 0.355                |       3496                 |
