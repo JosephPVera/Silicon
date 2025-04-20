@@ -68,7 +68,7 @@ $$
 #### 3.2.4. Localized states in Spind down 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/G_center/HSE06/G_0/Spin_down-kpoint_1-no.png)
 
-#### 3.2.5. Kohn-Sham states for $T_0$ center: Excited state
+#### 3.2.5. Kohn-Sham states for $G_0$ center: Excited state
 | Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
 | :--------: |:------:|:-------------------------:| :---------:|
 | G          | 0      |        0                  |     0      |
