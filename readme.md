@@ -46,6 +46,13 @@ $$
 #### 3.1.3. Localized states in Spind down 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/T_0/Spin_down-kpoint_1.png)
 
+#### 3.1.4. Kohn-Sham states for $T_0$ center: Excited state
+| Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
+| :--------: |:------:|:-------------------------:| :---------:|
+| T          | 0      |        1                  |     1/2    |
+
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/ZPL/T_0/HSE06/Excited_state/kohn-sham-states.png)
+
 ## 4. Zero Phonon line (ZPL) for point defects in silicon
 
 ### 1. T center
