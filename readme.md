@@ -53,6 +53,30 @@ $$
 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/ZPL/T_0/HSE06/Excited_state/kohn-sham-states.png)
 
+### 3.2. G center 
+#### 3.2.1. Formation energy diagram
+#### 3.1.2. Kohn-Sham states for $G_0$ center
+| Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
+| :--------: |:------:|:-------------------------:| :---------:|
+| G          | 0      |        0                  |     0      |
+
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/G_center/HSE06/G_0/kohn-sham-states-2.png)
+
+#### 3.2.3. Localized states in Spind up 
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/G_center/HSE06/G_0/Spin_up-kpoint_1-no.png)
+
+#### 3.2.4. Localized states in Spind down 
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/G_center/HSE06/G_0/Spin_down-kpoint_1-no.png)
+
+#### 3.2.5. Kohn-Sham states for $T_0$ center: Excited state
+| Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
+| :--------: |:------:|:-------------------------:| :---------:|
+| G          | 0      |        0                  |     0      |
+##### Spin up
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/ZPL/G_0/HSE06/Excited_state_up/kohn-sham-states-2.png)
+##### Spin down
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/ZPL/G_0/HSE06/Excited_state_down/kohn-sham-states-2.png)
+
 ## 4. Zero Phonon line (ZPL) for point defects in silicon
 
 ### 1. T center
