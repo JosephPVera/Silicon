@@ -33,6 +33,7 @@ E =
 $$
 
 ## 3. Point defects
+### $T_0$ center 
 
 ## 4. Zero Phonon line (ZPL) for point defects in silicon
 
