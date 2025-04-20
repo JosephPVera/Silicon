@@ -77,7 +77,7 @@ $$
 ##### Spin down
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/ZPL/G_0/HSE06/Excited_state_down/kohn-sham-states-2.png)
 
-## 4. Zero Phonon line (ZPL) for point defects in silicon
+## 4. Zero Phonon line (ZPL) 
 
 ### 1. $T^0$ center
 | Method        | ZPL (eV)      | $\lambda$ (nm)        |
