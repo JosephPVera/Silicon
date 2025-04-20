@@ -40,6 +40,7 @@ $$
 | Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
 | :--------: |:------:|:-------------------------:| :---------:|
 | T          | 0      |        1                  |     1/2    |
+
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/T_0/kohn-sham-states-2.png)
 
 ## 4. Zero Phonon line (ZPL) for point defects in silicon
