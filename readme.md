@@ -33,7 +33,11 @@ E =
 $$
 
 ## 3. Point defects
-### $T_0$ center 
+### 3.1. T center 
+#### 3.1.1. Formation energy diagram
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/formation-energy/energy_A-1.png)
+#### 3.1.2. Kohn-Sham states for $T_0$ center
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/T_0/kohn-sham-states-2.png)
 
 ## 4. Zero Phonon line (ZPL) for point defects in silicon
 
