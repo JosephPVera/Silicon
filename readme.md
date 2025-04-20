@@ -43,6 +43,9 @@ $$
 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/T_0/kohn-sham-states-2.png)
 
+#### 3.1.3. Localized states in Spind down 
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/T_0/Spin_down-kpoint_1.png)
+
 ## 4. Zero Phonon line (ZPL) for point defects in silicon
 
 ### 1. T center
