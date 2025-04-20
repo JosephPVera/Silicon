@@ -37,6 +37,9 @@ $$
 #### 3.1.1. Formation energy diagram
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/formation-energy/energy_A-1.png)
 #### 3.1.2. Kohn-Sham states for $T_0$ center
+| Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
+| :--------: |:------:|:-------------------------:| :---------:|
+| T          | 0      |        1                  |     1/2    |
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/T_0/kohn-sham-states-2.png)
 
 ## 4. Zero Phonon line (ZPL) for point defects in silicon
