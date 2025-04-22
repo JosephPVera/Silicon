@@ -11,11 +11,11 @@
 
 ## 2. Dielectric tensor
 $$
-T = I + E
+\epsilon = \epsilon^{0}_{ij} + \epsilon^{\infty}_{ij}
 $$
 ### 2.1. Ionic contribution
 $$
-I =
+\epsilon^{0}_{ij} =
 \begin{bmatrix}
 0 & 0 & 0 \\
 0 & 0 & 0 \\
@@ -24,7 +24,7 @@ I =
 $$
 ### 2.1. Electronic contribution
 $$
-E =
+\epsilon^{\infty}_{ij} =
 \begin{bmatrix}
 12.99 & 0 & 0 \\
 0 & 12.99 & 0 \\
