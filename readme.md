@@ -44,7 +44,7 @@ $$
 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/T_0/kohn-sham-states-2.png)
 
-#### 3.1.3. Localized states in Spind down 
+#### 3.1.3. Localized states in Spin down 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/T_0/Spin_down-kpoint_1.png)
 
 #### 3.1.4. Kohn-Sham states for $T^0$ center: Excited state
@@ -65,10 +65,10 @@ $$
 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/G_center/HSE06/G_0/kohn-sham-states-2.png)
 
-#### 3.2.3. Localized states in Spind up 
+#### 3.2.3. Localized states in Spin up 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/G_center/HSE06/G_0/Spin_up-kpoint_1-no.png)
 
-#### 3.2.4. Localized states in Spind down 
+#### 3.2.4. Localized states in Spin down 
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/G_center/HSE06/G_0/Spin_down-kpoint_1-no.png)
 
 #### 3.2.5. Kohn-Sham states for $G^0$ center: Excited state
