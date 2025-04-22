@@ -36,6 +36,7 @@ $$
 ### 3.1. T center 
 #### 3.1.1. Formation energy diagram
 ![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/T-center/HSE06/formation-energy/energy_A-1.png)
+
 #### 3.1.2. Kohn-Sham states for $T^0$ center
 | Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
 | :--------: |:------:|:-------------------------:| :---------:|
@@ -55,6 +56,8 @@ $$
 
 ### 3.2. G center 
 #### 3.2.1. Formation energy diagram
+![Alt text](https://github.com/JosephPVera/Silicon/blob/main/Point_defects/G_center/HSE06/formation-energy/energy_A-1.png)
+
 #### 3.1.2. Kohn-Sham states for $G^0$ center
 | Defect     | Charge | Magnetization ($\mu_{B}$) | Spin state |
 | :--------: |:------:|:-------------------------:| :---------:|
