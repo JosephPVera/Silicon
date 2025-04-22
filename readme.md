@@ -10,12 +10,13 @@
 | Experimental  | 1.12          |     5.43              |
 
 ## 2. Dielectric tensor
-$$ \epsilon
+$$ 
+T = I + E
 $$
 
 ### 2.1. Ionic contribution
 $$
-\epsilon^{0}_{ij} =
+I =
 \begin{bmatrix}
 0 & 0 & 0 \\
 0 & 0 & 0 \\
@@ -25,7 +26,7 @@ $$
 
 ### 2.1. Electronic contribution
 $$
-\epsilon^{\infty}_{ij} =
+E =
 \begin{bmatrix}
 12.99 & 0 & 0 \\
 0 & 12.99 & 0 \\
