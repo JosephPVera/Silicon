@@ -23,6 +23,7 @@ $$
 0 & 0 & 0
 \end{bmatrix}
 $$
+
 ### 2.1. Electronic contribution
 $$
 \epsilon^{\infty}_{ij} =
