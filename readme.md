@@ -11,8 +11,7 @@
 
 ## 2. Dielectric tensor
 $$
-\epsilon = \epsilon^{0}_{ij} 
-+ \epsilon^{\infty}_{ij}
+\epsilon = \epsilon^{0}_{ij} + \epsilon^{\infty}_{ij}
 $$
 
 ### 2.1. Ionic contribution
